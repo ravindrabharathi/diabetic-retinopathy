@@ -19,4 +19,4 @@ https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/Diabetic_Re
 
 Image-processing : https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/image-process.md
 
-Class imbalance : https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/image-process.md
+Class imbalance : https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/class-imbalance.md
