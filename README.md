@@ -15,7 +15,7 @@ We will use Keras with tensorflow for this . In the next stages we could use thi
 
 https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/Diabetic_Retinopathy.ipynb
 
-Notes:
+**Notes:**
 
 Image-processing : https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/image-process.md
 
