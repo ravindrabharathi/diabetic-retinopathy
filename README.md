@@ -11,3 +11,6 @@ This dataset contains 413 Training images and 103 Test images .The GroundTruth l
 
 We will use Keras with tensorflow for this . In the next stages we could use this library https://github.com/ravindrabharathi/tf_utils. This library is a work in progress but it already gives us the ability to build an input data pipeline using TfRecords, tf.Data Datasets , augmentation strategies like cutout , random-pad-crop, the ability to plot misclassified images and also ability to plot confusion matrix 
 
+**Link to Notebook for Preliminary analysis :** 
+
+https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/Diabetic_Retinopathy.ipynb
