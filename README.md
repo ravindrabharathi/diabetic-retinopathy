@@ -1,4 +1,4 @@
-#Detection of Diabetic Retinopathy using Deep Learning 
+# Detection of Diabetic Retinopathy using Deep Learning 
 
 We will use Convolutional Neural Networks to classify if an image of Retina shows signs of Diabetic Retinopathy 
 
