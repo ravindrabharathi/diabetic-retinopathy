@@ -21,7 +21,7 @@ Image-processing : https://github.com/ravindrabharathi/diabetic-retinopathy/blob
 
 Class imbalance : https://github.com/ravindrabharathi/diabetic-retinopathy/blob/master/class-imbalance.md
 
-## Diabetic Retinopathy Screening 
+## Diabetic Retinopathy Screening -smartphone based solution for primary health care centers
 Build a smartphone diabetic retinopathy screening system that can be easily made available in primary health care centers 
 
 Train a Diabetic Retinopathy classifier/detector using retinal eye fundus image datasets 
